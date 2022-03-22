@@ -1,3 +1,9 @@
 # Data-Analytics-Portfolio
 
-This is my portfolio that I will be creating throughout my UW-Madison Data Analytics and Data Science Bootcamp.
+This repository contains projects and visualizations created from the Data Science and Analytics program with UW Madison.
+
+##SQL
+
+##Statistics
+
+##Visual Communications
